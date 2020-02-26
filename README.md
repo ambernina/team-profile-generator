@@ -1,4 +1,4 @@
-# Employee Tracker
+# Team Profile Generator
 ## Description
 This is an engineering team generator command line application. It prompts the user for information about their team. The user can add any number of employees and they can be either managers, engineers, or interns. The application also has built in tests so that the user can check if everything is functioning before running the app. When the user is finished adding employees the app generates an HTML page that displays all the information that the user added for their employees.
 
@@ -9,7 +9,7 @@ This app is meant to be used to help a team keep track of basic employee informa
 All dependencies are included in the package.json file so an npm i is the only thing required.
 
 ## Github Repo Link
-https://github.com/ambernina/employee-tracker
+https://github.com/ambernina/team-profile-generator
 
 ## License
 
