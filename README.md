@@ -1,6 +1,8 @@
 # Team Profile Generator
 ## Description
-This is an engineering team generator command line application. It prompts the user for information about their team. The user can add any number of employees and they can be either managers, engineers, or interns. The application also has built in tests so that the user can check if everything is functioning before running the app. When the user is finished adding employees the app generates an HTML page that displays all the information that the user added for their employees.
+This is an engineering team generator command line application that generates an html profile page containing the employees you enter. It prompts the user for information about their team. The user can add any number of employees and they can be either managers, engineers, or interns. The application also has built in tests so that the user can check if everything is functioning before running the app. When the user is finished adding employees the app generates an HTML page that displays all the information that the user added for their employees.
+
+![](team-profile-generator.gif)
 
 ## Usage
 This app is meant to be used to help a team keep track of basic employee information for their entire team in one place.
